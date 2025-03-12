@@ -1,2 +1,2 @@
 export const  BASEURL=
-location.hostname==="localhost"?"http://localhost:7777":"/api"   
+location.hostname==="https://dev-tinder-backend-4sfg.onrender.com"   
